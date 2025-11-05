@@ -13,5 +13,6 @@ public class app_teste {
         } else {
             System.out.println("Teste RAG: não encontrado.");
         }
+        
     }
 }
